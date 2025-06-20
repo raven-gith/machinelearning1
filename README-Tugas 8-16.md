@@ -66,21 +66,6 @@ Interpretasi model menggunakan feature importance, permutation importance, dan t
 
 ---
 
-## 📁 Struktur Folder
 
-```
-📂 hands-on-ml-reproduction/
-├── chapter_01_*.ipynb
-├── ...
-├── chapter_19_*.ipynb
-└── README.md
-```
 
----
-
-## 🧑‍🎓 Disusun oleh
-
-Nama: **[Nama Mahasiswa]**  
-NIM: **[NIM Kamu]**  
-Kelas: **[Kelas Praktikum / Mata Kuliah]**
 
